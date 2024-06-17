@@ -1,0 +1,30 @@
+.slidebar {
+    flex: 0.2;
+    padding: 1rem 2rem;
+
+}
+
+.slidebar_twitter-icon {
+    font-size: 2rem !important;
+    color: #1da1f2;
+    padding-left: 1rem;
+
+
+}
+
+
+.slidebar__tweet-btn {
+    background-color: #1da1f2 !important;
+    color: white !important;
+    text-transform: capitalize !important;
+    border-radius: 33px !important;
+    width: 80% !important;
+    padding: 0.7rem 0 !important;
+    font-size: 1.2rem I !important;
+    border: none !important;
+
+}
+
+.slidebar__tweet-btn:hover {
+    background-color: #1da1f2 !important;
+}

@@ -1,0 +1,40 @@
+.slidebar-option {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: start;
+    border-radius: 33px;
+    padding-left: 1rem;
+    padding-right: 2rem;
+    width: fit-content;
+    margin: 0.4rem 0;
+
+
+}
+
+.slidebar-option:hover {
+    background-color: #e6ecf0;
+    transition: background-color 0.2s;
+
+}
+
+.slidebar-option__icon {
+    font-size: 1.7rem !important;
+}
+
+
+
+.slidebar-option__label {
+    margin-left: 1rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+
+
+}
+
+
+
+.slidebar-option_active h2 {
+    font-weight: 600;
+
+}
